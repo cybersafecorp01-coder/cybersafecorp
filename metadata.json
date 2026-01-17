@@ -1,0 +1,7 @@
+{
+  "name": "CyberSafeCorp - Cybersecurity Solutions",
+  "description": "Enterprise-grade cybersecurity, automation, and AI solutions provider. Protecting digital assets with cutting-edge technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
